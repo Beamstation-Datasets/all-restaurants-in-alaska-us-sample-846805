@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a90e0146-b235-4045-86ac-ad74ab01cbd9",
+  "export_job_id": "4830c1dd-83c9-478d-81ae-ad85d10ffb38",
   "id_short": 846805,
-  "published_at": "2026-04-17T07:52:24Z",
+  "published_at": "2026-04-22T19:01:23Z",
   "repo_name": "all-restaurants-in-alaska-us-sample-846805",
   "sample_asset_name": "beamstation_846805_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/846805/beamstation_846805_restaurants-us-ak_SAMPLE_DIST.csv",
-  "sample_records": 177,
-  "sample_sha256": "8c06e2a11f16246036c83185cbe328c77920a6766951a1e74314e80e808fcb41",
-  "sample_size_bytes": 555399,
-  "total_records": 1774
+  "sample_records": 131,
+  "sample_sha256": "ed107e0564d8a65e5c6fd3caacb94277c3bdb007190e4dc1fc73d5b9e5d8b27f",
+  "sample_size_bytes": 418548,
+  "total_records": 1313
 }
