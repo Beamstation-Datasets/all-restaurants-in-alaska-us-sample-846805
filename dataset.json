@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All restaurant listings across the state of Alaska. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
   "config_name": "All Restaurants in Alaska, US",
-  "export_job_id": "a90e0146-b235-4045-86ac-ad74ab01cbd9",
+  "export_job_id": "4830c1dd-83c9-478d-81ae-ad85d10ffb38",
   "github_org": "Beamstation-Datasets",
   "id_short": 846805,
   "location_name": "Alaska",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-alaska-us-sample-846805",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/846805/beamstation_846805_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_pct": 9.98,
-  "sample_records": 177,
-  "sample_sha256": "8c06e2a11f16246036c83185cbe328c77920a6766951a1e74314e80e808fcb41",
-  "sample_size_bytes": 555399,
-  "total_records": 1774,
-  "updated_at": "2026-04-14T18:10:05.216824+00:00"
+  "sample_records": 131,
+  "sample_sha256": "ed107e0564d8a65e5c6fd3caacb94277c3bdb007190e4dc1fc73d5b9e5d8b27f",
+  "sample_size_bytes": 418548,
+  "total_records": 1313,
+  "updated_at": "2026-04-21T19:58:46.233722+00:00"
 }
