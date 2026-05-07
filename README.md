@@ -1,6 +1,6 @@
 # All Restaurants in Alaska, US
 
-> Free BeamStation sample export with 183 rows and masked direct-contact fields.
+> Free BeamStation sample export with 196 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `846805` |
 | Location | Alaska |
 | Category | Restaurants |
-| Full dataset size | 1,830 records |
-| Free sample size | 183 records (10.0%) |
-| Last export | 2026-04-28T21:50:32.139124+00:00 |
+| Full dataset size | 1,967 records |
+| Free sample size | 196 records (9.96%) |
+| Last export | 2026-05-07T17:28:09.487909+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-alaska-us-sample-846805/releases/download/sample-latest/beamstation_846805_restaurants-us-ak_SAMPLE_DIST.csv) |
 
 ## What is in this sample
